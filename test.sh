@@ -4,4 +4,5 @@
 #Date:04-Jan-2021
 
 echo "Hey!Hope you are doing good"
-echo "This is for an example of Merge conflicts"
+echo "This is for an example of Merge conflicts"i
+echo "This is for Github Contributers lab with branch protection"
